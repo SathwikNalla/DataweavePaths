@@ -1,0 +1,107 @@
+[
+    {
+        "Name__c": "P.Jeevan Kumar",
+        "Pho_no__c": "2543656513",
+        "Id": "a00GC00004kPiqaYAC",
+        "type": "APICentrics__c",
+        "Address__c": "Guntur",
+        "Email__c": "abc@gmail.com"
+    },
+    {
+        "Name__c": "Madhav",
+        "Pho_no__c": "5315435135",
+        "Id": "a00GC00004kPiqkYAC",
+        "type": "APICentrics__c",
+        "Address__c": "Guntur",
+        "Email__c": "ghi@gmail.com"
+    },
+    {
+        "Name__c": "Javed",
+        "Pho_no__c": "6541981577",
+        "Id": "a00GC00004l5WR2YAM",
+        "type": "APICentrics__c",
+        "Address__c": "Karimnagar",
+        "Email__c": "xyz@gmail.com"
+    },
+    {
+        "Name__c": "Raj Kumar",
+        "Pho_no__c": "5343542354",
+        "Id": "a00GC00004kPiqfYAC",
+        "type": "APICentrics__c",
+        "Address__c": "Kotabommali",
+        "Email__c": "def@gmail.com"
+    },
+    {
+        "Name__c": "varun",
+        "Pho_no__c": "86786486",
+        "Id": "a00GC00004kPjIYYA0",
+        "type": "APICentrics__c",
+        "Address__c": "vij",
+        "Email__c": "varun@gmail.com"
+    },
+    {
+        "Name__c": "naveen",
+        "Pho_no__c": "456456456",
+        "Id": "a00GC00004kPjIaYAK",
+        "type": "APICentrics__c",
+        "Address__c": "hyd",
+        "Email__c": "naveen@gmail.com"
+    },
+    {
+        "Name__c": "khasim",
+        "Pho_no__c": "5645645654",
+        "Id": "a00GC00004kPjIbYAK",
+        "type": "APICentrics__c",
+        "Address__c": "nlr",
+        "Email__c": "khasim@gmail.com"
+    },
+    {
+        "Name__c": "gopi",
+        "Pho_no__c": "85456456456",
+        "Id": "a00GC00004kPjIcYAK",
+        "type": "APICentrics__c",
+        "Address__c": "kl",
+        "Email__c": "gopi@gmail.com"
+    },
+    {
+        "Name__c": "Raj Kumar",
+        "Pho_no__c": null,
+        "Id": "a00GC00004l5XKkYAM",
+        "type": "APICentrics__c",
+        "Address__c": "Guntur",
+        "Email__c": "bro@gmail.com"
+    },
+    {
+        "Name__c": "Raju",
+        "Pho_no__c": null,
+        "Id": "a00GC00004kpJ0iYAE",
+        "type": "APICentrics__c",
+        "Address__c": "Kotabommali",
+        "Email__c": "bro@gmail.com"
+    },
+    {
+        "Name__c": "Raju",
+        "Pho_no__c": "564564768",
+        "Id": "a00GC00004kPjIZYA0",
+        "type": "APICentrics__c",
+        "Address__c": "Kotabommali",
+        "Email__c": "gowri@gmail.com"
+    },
+    {
+        "Name__c": "Javed",
+        "Pho_no__c": "6541981577",
+        "Id": "a00GC00004l5YPAYA2",
+        "type": "APICentrics__c",
+        "Address__c": "Karimnagar",
+        "Email__c": "xyz@gmail.com"
+    },
+    {
+        "Name__c": "M.Hemanth Kumar",
+        "Pho_no__c": "2546546745",
+        "Id": "a00GC00004kPiqVYAS",
+        "type": "APICentrics__c",
+        "Address__c": "Guntur",
+        "Email__c": "xyz@gmail.com"
+    }
+
+]
