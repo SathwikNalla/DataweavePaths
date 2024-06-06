@@ -1,4 +1,16 @@
+/*
+[
+  {
+    "first name": "MAX",
+    "last name": "THE MULE"
+  },
+  {
+    "first name": "ALBERT",
+    "last name": "EINSTEIN"
+  }
+]
 
+ */
 %dw 2.0
 output application/json
 ---
